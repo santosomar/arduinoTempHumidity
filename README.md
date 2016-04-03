@@ -15,6 +15,8 @@ The following is a picture of the wiring I used in my example.
 
 ![Alt text](images/arduino-sensors-wiring.jpg "DHT11 and Arduino UNO example")
 
+In my example, Sensor 1 output data pin was connected to Arduino UNO digital input pin 2 and Sensor 2 output data pin was connected to digital input pin 4.
+
 ## My Example and Output
 Once you have installed the SimpleDHT library, use my code (examples/santosomar.ino)
 
