@@ -13,7 +13,7 @@ https://github.com/winlinvip/SimpleDHT
 ## My Example and Output
 Once you have installed the SimpleDHT library, use my code (examples/santosomar.ino)
 
-> Remark: Don't configure it to do more than 1 Hz sampling rate (once every second), if not you will get errors. In my example I am using 1500 (1.5 seconds).
+> Important: Don't configure it to do more than 1 Hz sampling rate (once every second), if not you will get errors. In my example I am using 1500 (1.5 seconds).
 
 Open the Serial Window of Arduino IDE. The output should look like this: 
 
