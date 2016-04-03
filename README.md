@@ -10,6 +10,11 @@ https://github.com/winlinvip/SimpleDHT
 Instructions on how to import the SimpleDHT library in your Arduino UNO can be found at:
 https://github.com/winlinvip/SimpleDHT
 
+## Arduino and Sensor Wiring
+The following is a picture of the wiring I used in my example.
+
+![Alt text](images/arduino-sensors-wiring.jpg "DHT11 and Arduino UNO example")
+
 ## My Example and Output
 Once you have installed the SimpleDHT library, use my code (examples/santosomar.ino)
 
